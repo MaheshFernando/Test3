@@ -1,1 +1,2 @@
-x<rnorm(10)
+x<-rnorm(10)
+Y<-mean(x)
